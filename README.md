@@ -2,6 +2,8 @@
 My personal repository of projects. This took me roughly three months to create and involves two seperate running programs, each one for a different use case.
 
 **ProfitalTradesBot**
+
+
   Imports to use:
     1)pycoingecko -> CoinGeckoAPI
     2)requests
