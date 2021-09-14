@@ -9,7 +9,7 @@ import os
 import time
 
 #token for bot.
-TOKEN = "ODQ4MzA2NzEyMTc2MDk5MzM4.YLKtMA.cRIFiTFGpq-dzVg3uGZP-fEeBYg"
+TOKEN = "ENTER TOKEN"
 
 #starts discord
 client = discord.Client()
