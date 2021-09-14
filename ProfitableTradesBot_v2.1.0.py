@@ -13,7 +13,7 @@ import time
 import ctypes #used for resolution capture of screen
 
 #Connecting to server 
-TOKEN = 'ODM2MDcxMTg1MjcxNDg4NTQz.YIYp-A.gDaH5cyS3Goosq_JELgjtUXX57s'
+TOKEN = "ENTER TOKEN HERE"
 
 #start discord
 client = discord.Client()
