@@ -1,4 +1,3 @@
-# CryptoCurrencyArbritage
 My personal repository of projects. This took me roughly three months to create and involves two seperate running programs, each one for a different use case.
 
 **ProfitalTradesBot**
