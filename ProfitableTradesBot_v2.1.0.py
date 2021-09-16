@@ -33,7 +33,7 @@ async def on_ready():
         esasset_counter = 0
         
         #discord channel ID
-        discord_coins_to_enter = client.get_channel(877974169936097320)
+        discord_coins_to_enter = client.get_channel()
 
         #add's color to system
         os.system("cls")
@@ -79,7 +79,7 @@ async def on_ready():
         driver.set_window_size(length,width)
 
         #chrome driver opens energi-swap main site, then sleeps to fully open webpage.
-        driver.get("https://www.energiswap.info/tokens")
+        driver.get("enterlink")
         timeout = 5
         try:
             WebDriverWait(driver, timeout).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="center"]/div/div/div/div[4]/div/div[3]/div[1]/div[1]/div[5]')))
