@@ -32,7 +32,7 @@ for i in range(0,symbol_user_amount):
 async def on_ready():
     print("Connected")
 
-    discord_coins_to_exit = client.get_channel(870778011249700864)
+    discord_coins_to_exit = client.get_channel(enterhere)
 
     while True:
         global iteration
@@ -60,8 +60,7 @@ async def on_ready():
         driver = webdriver.Chrome(PATH,options=chrome_options)
         driver.set_window_size(1920,1080)
 
-        #chrome driver opens energi-swap main site, then sleeps to fully open webpage.
-        driver.get("https://www.energiswap.info/tokens")
+        driver.get("linkhere")
         time.sleep(3.5) #DO NOT TOUCH THIS.
 
         for energiswap_page in range(0,4): #four pages of energiswap
