@@ -7,7 +7,7 @@ This is an automated software that scoures both coingecko and energiswap for arb
 
  > the simultaneous buying and selling of securities, currency, or commodities in different markets or in derivative forms in order to take advantage of differing prices for the same asset.
 
-I've *20x'ed* my portfolio using this bot, and is my pride and joy. Enjoy using it as much as I have.
+This is my pride and joy. Enjoy using it as much as I have.
 
 
 ### How do I use this?
