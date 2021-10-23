@@ -3,7 +3,7 @@ from parameters import *
 
 @client.event
 async def on_ready():
-    #PRE-REQ SHIT THAT REQUIRED HERE
+    #PRE-REQ REQUIRED HERE
     iteration = 0
     channel = client.get_channel(int(channel_ID))
     while True:
